@@ -11,7 +11,7 @@
     <groupId>dk.matzon.oauth</groupId>
     <artifactId>oauth</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>oauth</name>
+    <name>oauth-login-flow</name>
     <description>Demo project for Spring Boot OAuth2</description>
     <properties>
         <java.version>17</java.version>
